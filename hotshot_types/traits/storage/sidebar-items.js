@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["null_store_drb_progress_fn","store_drb_input_impl","store_drb_progress_fn","store_drb_result_fn","store_drb_result_impl"],"trait":["Storage"],"type":["StoreDrbProgressFn","StoreDrbResultFn"]};
